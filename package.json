@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
   "test": "echo \"Error: brak testow\",
-    "start": "webpack-dev-server --hot"
+  "start": "webpack-dev-server --hot"
   },
   "author": "",
   "license": "ISC",
