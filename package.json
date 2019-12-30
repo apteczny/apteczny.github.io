@@ -6,6 +6,7 @@
   "scripts": {
   "test": "echo \"Error: brak testow\"",
   "start": "webpack-dev-server --hot",
+  "predeploy": "npm run build",  
   "deploy": "gh-pages -d build"
   },
   "author": "",
