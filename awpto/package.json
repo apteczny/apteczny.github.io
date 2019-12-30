@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test":   "npm run unit",
+    "test":   "yarn run unit",
     "start": "webpack-dev-server --hot"
   },
   "author": "",
