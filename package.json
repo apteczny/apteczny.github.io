@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "echo \"Error: brak testow\" && exit 1",
+  "test": "echo \"Error: brak testow\",
     "start": "webpack-dev-server --hot"
   },
   "author": "",
