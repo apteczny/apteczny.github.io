@@ -20,7 +20,5 @@
     "webpack-dev-server": "^1.14.1"
   }
     "publishConfig":
-  {
-    "registry":"https://apteczny.github.io/awpto1/"
-  },
+ 
 }
