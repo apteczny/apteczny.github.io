@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test": "echo \"Error: bez testow \"",
-    "start": "webpack-dev-server --hot"
+  "test": "echo \"Error: bez testow \"",
+  "start": "webpack-dev-server --hot"
   },
   "author": "",
   "license": "ISC",
